@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+<img align="right" alt="Coding" width=100% src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 <h1 align="center">Hi 👋, I'm Premansh Chanderiya✨</h1>
 <h3 align="center">Coffee or Tea both Hot n Cold ☕</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
