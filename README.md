@@ -1,5 +1,6 @@
 
-![213910845-af37a709-8995-40d6-be59-724526e3c3d7](https://github.com/user-attachments/assets/0aaa1f44-aa24-41ab-b0da-715bd9cfdea9)
+![213910845-af37a709-8995-40d6-be59-724526e3c3d7](https://github.com/user-attachments/assets/85013169-1daa-4fd9-acd7-e7a1aba78158)
+
 
 <h1 align="center">Hi 👋, I'm Premansh Chanderiya✨</h1>
 <h3 align="center">Coffee or Tea both Hot n Cold ☕</h3>
